@@ -1,5 +1,4 @@
-{
-  "name": "esgi.4a.render.static",
+{"name": "esgi.4a.render.static",
   "version": "0.0.0",
   "private": true,
   "scripts": {
